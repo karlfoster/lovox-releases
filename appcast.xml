@@ -5,6 +5,19 @@
     <description>Latest updates for Lovox</description>
     <language>en</language>
     <item>
+      <title>Version 1.7.11</title>
+      <pubDate>Wed, 01 Jul 2026 12:47:49 +0400</pubDate>
+      <enclosure
+        url="https://github.com/karlfoster/lovox-releases/releases/download/v1.7.11/Lovox-1.7.11.dmg"
+        length="4521612"
+        type="application/octet-stream"
+        sparkle:version="86"
+        sparkle:shortVersionString="1.7.11"
+        sparkle:edSignature="jdz+sS8IUHTYAjoE49hlbkm0FB/RbzpPWXHAwHN9Gz6J85GaxMotmzG+afWIYIfsT4TWxJ7gidXxXXx37pXdCw==" />
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:criticalUpdate></sparkle:criticalUpdate>
+    </item>
+    <item>
       <title>Version 1.7.10</title>
       <pubDate>Wed, 01 Jul 2026 12:32:08 +0400</pubDate>
       <enclosure
