@@ -15,6 +15,7 @@
         sparkle:shortVersionString="1.8.4"
         sparkle:edSignature="trzMFF7niZhDRRKFv+cPNuSh5uVn7kRZcTTvHW3h4QHhbhrdb41yRsM1U9WYxTthhs0l8O+MhoA3EUjY6KvQAQ==" />
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:criticalUpdate></sparkle:criticalUpdate>
     </item>
     <item>
       <title>Version 1.8.3</title>
